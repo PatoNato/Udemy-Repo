@@ -1,6 +1,23 @@
-h1 {
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1.primary-title {
     text-align: center;
-    color: red;
+    color: black;
+    text-shadow: ;
+}
+
+img.header {
+    align-content: center;
+    max-height: 500px;
+}
+
+nav.nav-bar {
+    background-color: cadetblue;
+    text-align: center;
+    font-size: large;
+    padding: 12px;
 }
 
 form{
